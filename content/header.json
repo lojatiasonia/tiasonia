@@ -1,17 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Enjoy our discounts of up to 40%!",
-    "link": "promotion"
+    "text": "❤ FRETE GRÁTIS ACIMA DE R$ 200 | APROVEITE!",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Fale Conosco",
+        "link": "https://www.emporiotiasonia.com.br/pages/contato"
       }
     ],
     "phone_wpp": true,
