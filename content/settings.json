@@ -1,22 +1,22 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "storefront-demo.e-com.plus",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#383d44",
-  "secondary_color": "#7F7F7F",
-  "bg_color": "#ffffff",
+  "domain": "emporiotiasonia.com.br",
+  "currency_symbol": "R$",
+  "primary_color": "#333333",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Tia Sônia",
+  "short_name": "Tia Sônia",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "/img/uploads/square_icon_download.png",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#001052",
+  "icon": "/img/uploads/square_icon_download.png",
+  "store_id": 1024,
+  "description": "Para um mundo com fome de viver, somos alimento  pro corpo e pra alma. Comida que realmente nutre, alimenta, revigora, acalenta, com sabor de saúde e carinho que faz a gente se sentir em casa, onde a gente estiver.",
+  "large_icon": "/img/uploads/logo.png"
 }
