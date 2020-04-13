@@ -1,41 +1,51 @@
+<%
+const sfTemplatePath = '../../node_modules/@ecomplus/storefront-template/template/pages/'
+%>
+
 <!doctype html>
 <html lang="<%= _.lang.replace('_', '-') %>" dir="ltr">
 
 <head>
-  <%- await include(`/@/head`, { _ }) %>
+  <%- await include(`${sfTemplatePath}@/head`, { _ }) %>
   <link rel="stylesheet" type="text/css" href="/storefront.css">
 
   <%- await include('@custom-html/head', { _ }) %>
   <%- await include('@custom-html/home/head', { _ }) %>
 </head>
 
-<body>
-  <%- await include(`/@/layout/menu`, { _ }) %>
+<body id="home">
+  <%- await include(`${sfTemplatePath}@/layout/menu`, { _ }) %>
 
   <main role="main" id="main">
-    <%- await include(`/@/layout/header`, { _ }) %>
+    <%- await include(`${sfTemplatePath}@/layout/header`, { _ }) %>
 
     <article id="content">
       <%- await include('@custom-html/append-top', { _ }) %>
       <%- await include('@custom-html/home/append-top', { _ }) %>
 
-      <%- await include(`/@/views/home`, { _ }) %>
+      <%- await include(`${sfTemplatePath}@/views/home`, { _ }) %>
 
       <%- await include('@custom-html/append-bottom', { _ }) %>
       <%- await include('@custom-html/home/append-bottom', { _ }) %>
     </article>
 
-    <%- await include(`/@/layout/footer`, { _ }) %>
+    <%- await include(`${sfTemplatePath}@/layout/footer`, { _ }) %>
 
     <%- await include('@custom-html/append-footer', { _ }) %>
 
     <div id="overlay" class="fade"></div>
   </main>
 
-  <%- await include(`/@/scripts`, { _ }) %>
+  <%- await include(`${sfTemplatePath}@/scripts`, { _ }) %>
 
   <%- await include('@custom-html/scripts', { _ }) %>
-
+  <script type="text/javascript" src="//certificate.trustvox.com.br/widget.js"></script>
+  <div id="trustvox-seal" data-trustvox-certificate-fixed="data-trustvox-certificate-fixed"></div>
+  <script type="text/javascript">
+    const last_col = document.querySelector('.footer .order-lg-last')
+    const trustvox_seal = document.getElementById('trustvox-seal')
+    last_col.appendChild(trustvox_seal)
+  </script>
   <script src="/storefront.js"></script>
 </body>
 
