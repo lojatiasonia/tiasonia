@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.becb64d1212a0b5eca3265e69c473e37.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a69417853a20ed9ff296cfc3c5b1bfba.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.3e53863312c7613c00276be6c4a385a1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5922cd06ec0720eedce45eb5995c4c4b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.61bba12502fadb2954c6df2f7f8972e1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tia Sônia",
+  "short_name": "Tia Sônia",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Para um mundo com fome de viver, somos alimento  pro corpo e pra alma. Comida que realmente nutre, alimenta, revigora, acalenta, com sabor de saúde e carinho que faz a gente se sentir em casa, onde a gente estiver.",
+  "background_color": "#ffffff",
+  "theme_color": "#333333"
+}
