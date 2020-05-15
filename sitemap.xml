@@ -878,6 +878,12 @@
     </url>
   
     <url>
+      <loc>https://emporiotiasonia.com.br/pages/seja-nosso-parceiro</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://emporiotiasonia.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -885,12 +891,6 @@
   
     <url>
       <loc>https://emporiotiasonia.com.br/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporiotiasonia.com.br/pages/seja-nosso-parceiro</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
