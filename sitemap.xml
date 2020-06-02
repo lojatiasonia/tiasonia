@@ -524,6 +524,42 @@
     </url>
   
     <url>
+      <loc>https://emporiotiasonia.com.br/granolas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporiotiasonia.com.br/mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporiotiasonia.com.br/snacks-tia-sonia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporiotiasonia.com.br/kits-tia-sonias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporiotiasonia.com.br/outros-produtos-tia-sonia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporiotiasonia.com.br/novidades-para-voce</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://emporiotiasonia.com.br/granola-tia-sonia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -789,42 +825,6 @@
   
     <url>
       <loc>https://emporiotiasonia.com.br/outros-produtos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporiotiasonia.com.br/granolas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporiotiasonia.com.br/mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporiotiasonia.com.br/snacks-tia-sonia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporiotiasonia.com.br/kits-tia-sonias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporiotiasonia.com.br/outros-produtos-tia-sonia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://emporiotiasonia.com.br/novidades-para-voce</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
