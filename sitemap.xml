@@ -842,6 +842,12 @@
     </url>
   
     <url>
+      <loc>https://emporiotiasonia.com.br/amor-sabor-e-qualidade-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://emporiotiasonia.com.br/marca/tia-sonia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -938,12 +944,6 @@
     </url>
   
     <url>
-      <loc>https://emporiotiasonia.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://emporiotiasonia.com.br/errors/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -953,6 +953,12 @@
       <loc>https://emporiotiasonia.com.br/errors/500</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://emporiotiasonia.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
